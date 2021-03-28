@@ -1,0 +1,22 @@
+#container{
+    background-color: blanchedalmond;
+    width: 40em;
+    margin: auto;
+    height: 15em;
+    text-align: center;
+    border-color: black;
+    border-radius: 30px;
+}
+#box{
+    border-color: black;
+}
+#ln{
+    text-align: center;
+}
+#main-header{
+    padding: 50px;
+    color: black;
+}
+#succmess{
+    color: mediumseagreen;
+}
